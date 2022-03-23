@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1199884023
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: windows
+      Dependencies: {}
