@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 1199884023
+CRC: 191307029
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: windows
+      Name: ios
       Dependencies: {}

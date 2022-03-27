@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 91906275
+CRC: 3391990545
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1f60903506eecd2784f6c65ecda07974
+    Hash: 21c5763fc46ffe64920c5319a90cf170
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 67a8b9e5a34d92464851ebd0fa8404f3
+    Hash: 1ac4d01073ff1e92ac30b11241fc8930
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -111,6 +111,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: f311bc4f952d840cca3625e0b4dd420a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 742defff1dcd649f6aa02d3c7914ab11, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef8eef370f7974d6b82f5c1e86812df4, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 136
@@ -129,5 +131,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/SiegeUpUnitsKit/Demo Mod.asset
+- Assets/Mod Examples/Demo Mod.asset
 Dependencies: []
